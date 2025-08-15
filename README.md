@@ -22,7 +22,7 @@ My goals are to:
 <p align="left">
   <!-- Languages & Backend -->
   <img src="assets/icons/node.svg" height="40" alt="Node.js" />
-  <img src="assets/icons/express-white.svg" height="40" alt="Express.js" />
+  <img src="assets/icons/express-white.svg" height="25" alt="Express.js" />
   <img src="assets/icons/typescript.svg" height="40" alt="TypeScript" />
   <img src="assets/icons/javascript.svg" height="40" alt="JavaScript" />
   
@@ -32,7 +32,7 @@ My goals are to:
   <img src="assets/icons/tailwind.svg" height="40" alt="Tailwind CSS" />
   
   <!-- Other Languages & Frameworks -->
-  <img src="assets/icons/php.svg" height="40" alt="PHP" />
+  <img src="assets/icons/php.svg" height="25" alt="PHP" />
   <img src="assets/icons/laravel.svg" height="40" alt="Laravel" />
   <img src="assets/icons/python.svg" height="40" alt="Python" />
 
