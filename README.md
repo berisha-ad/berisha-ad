@@ -21,28 +21,28 @@ My goals are to:
 
 <p align="left">
   <!-- Languages & Backend -->
-  <img src="assets/icons/node.svg" height="40" alt="Node.js" />
-  <img src="assets/icons/express-white.svg" height="25" alt="Express.js" />
-  <img src="assets/icons/typescript.svg" height="40" alt="TypeScript" />
-  <img src="assets/icons/javascript.svg" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   
   <!-- Frontend -->
-  <img src="assets/icons/react.svg" height="40" alt="React" />
-  <img src="assets/icons/next-white.svg" height="40" alt="Next.js" />
-  <img src="assets/icons/tailwind.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   
   <!-- Other Languages & Frameworks -->
-  <img src="assets/icons/php.svg" height="25" alt="PHP" />
-  <img src="assets/icons/laravel.svg" height="40" alt="Laravel" />
-  <img src="assets/icons/python.svg" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
 
   <!-- Databases -->
-  <img src="assets/icons/postgres.svg" height="40" alt="PostgreSQL" />
-  <img src="assets/icons/mysql.svg" height="40" alt="MySQL" />
-  <img src="assets/icons/mongodb.svg" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
 
   <!-- Tools -->
-  <img src="assets/icons/docker.svg" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 </p>
 
 ---
